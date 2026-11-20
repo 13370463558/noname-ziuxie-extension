@@ -1,0 +1,6 @@
+# 本地备份与压缩包不上传（内含旧版本代码）
+*.bak
+*.zip
+__pycache__/
+.DS_Store
+自写功能/TUPO2/backup/

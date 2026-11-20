@@ -1,0 +1,36 @@
+
+
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.3), transparent),
+		linear-gradient(135deg, rgba(0, 0, 0, 0.5), transparent 80%, transparent) !important;
+    box-shadow: none;
+    color: white;
+    animation: game_start 0.5s !important;
+    display: block;
+    left: 0;
+    top: 0;
+    transition: all 0s;
+    border-width: 1px 0 0;
+    border-style: solid;
+    border-image: linear-gradient(to right, rgba(0, 0, 0, 0.4) 70%, transparent) 100% 0 0;
+    pointer-events: none;
+    opacity: 2;
+    border-radius: 16px;
+
+
+  
+   
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.3), transparent),
+		linear-gradient(135deg, rgba(0, 0, 0, 0.5), transparent 80%, transparent) !important;
+    box-shadow: none;
+    color: white;
+    display: block;
+    left: 0;
+    top: 0;
+    transition: all 0s;
+    border-width: 1px 0 0;
+    border-style: solid;
+    border-image: linear-gradient(to right, rgba(0, 0, 0, 0.4) 70%, transparent) 100% 0 0;
+    pointer-events: none;
+    opacity: 2;
+    border-radius: 16px;
+    -webkit-animation: game_start 0.5s !important;
